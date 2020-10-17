@@ -1,0 +1,27 @@
+{
+  "name": "prueba_js",
+  "version": "0.0.0",
+  "description": "Una prueba",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "test": "echo 'no tests yet' && exit 1",
+      "serve": "node -v && node index.js && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancahu/gtfs_shape_editor.git"
+  },
+  "keywords": [
+  ],
+  "author": "Jeancarlo Hidalgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeancahu/gtfs_shape_editor/issues"
+  },
+  "homepage": "https://github.com/jeancahu/gtfs_shape_editor#readme"
+}
